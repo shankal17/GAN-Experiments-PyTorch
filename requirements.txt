@@ -1,0 +1,4 @@
+matplotlib==3.2.1
+notebook==6.1.5
+numpy==1.18.4
+torch==1.5.1
