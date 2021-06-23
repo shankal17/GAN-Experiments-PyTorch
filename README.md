@@ -1,6 +1,6 @@
 # Simple-GAN-Experiments-PyTorch
 
-f(x) = x<sup>3</sup> GAN embedding result
+f(x) = x<sup>3</sup> GAN embedding visualization:
 
 ![x3 Embedding](/results/GAN_x3_Embedding_v2.JPG)
 
