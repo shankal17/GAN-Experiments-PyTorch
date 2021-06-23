@@ -2,7 +2,7 @@
 
 f(x) = x<sup>3</sup> GAN embedding result
 
-![x3 Embedding](/results/GAN_x3_Embedding.JPG)
+![x3 Embedding](/results/GAN_x3_Embedding_v2.JPG)
 
 
 ## Overview
