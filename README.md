@@ -18,4 +18,4 @@ Once you have the code, set up a virtual environment if you would like and insta
 pip install -r /path/to/requirements.txt
 ```
 
-Now you can change the network architectures, change the function to embedd, hyperparameters, really anything that you want! Running the actual experiment can be done in [Simple_GAN_Experiments.ipynb](https://github.com/shankal17/GAN-Experiments-PyTorch/blob/main/Simple_GAN_Experiments.ipynb).
+Now you can change the network architectures, the function to embed, hyperparameters, or really anything that you want! Running the actual experiment can be done in [Simple_GAN_Experiments.ipynb](https://github.com/shankal17/GAN-Experiments-PyTorch/blob/main/Simple_GAN_Experiments.ipynb).
